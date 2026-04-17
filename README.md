@@ -8,15 +8,15 @@ US/Israel strikes on Iran, Trump tariff announcements and the Iran ceasefire.
 
 ## Key Findings
 - The March 2026 US/Israel strikes on Iran caused a **28.9% oil price surge** 
-  in under two weeks — the largest single geopolitical shock in the dataset
+  in under two weeks, the largest single geopolitical shock in the dataset
 - Trump tariff announcements triggered **simultaneous selloffs** across oil 
-  (-12.6%), FTSE (-10.8%) and S&P 500 (-3.8%) — a systemic shock vs the 
+  (-12.6%), FTSE (-10.8%) and S&P 500 (-3.8%), a systemic shock vs the 
   Iran conflict which was an isolated energy shock
 - A UK business importing $1,000,000 of goods faced **£121,338 in additional 
   fuel costs** following the Iran strikes
 - A £10,000,000 FTSE portfolio lost **£428,938 in 14 days** following the strikes
-- Oil volatility reached **100% annualised** during the Iran conflict — four 
-  times normal levels
+- Oil volatility reached **100% annualised** during the Iran conflict, four 
+  times the normal levels
 - Despite oil volatility, GBP/USD remained the most stable asset with only 
   **2.8% coefficient of variation** throughout the period
 
@@ -39,9 +39,8 @@ US/Israel strikes on Iran, Trump tariff announcements and the Iran ceasefire.
 ## Key Insight
 Two distinct types of geopolitical shock emerged from this analysis. 
 Trade and tariff shocks created correlated selloffs across all asset 
-classes simultaneously — systemic risk. Military conflict shocks 
-concentrated in energy markets with limited spillover into equities 
-— isolated supply risk. For portfolio managers and risk analysts, 
+classes simultaneously, systemic risk. Military conflict shocks 
+concentrated in energy markets with limited spillover into equities, isolated supply risk. For portfolio managers and risk analysts, 
 the hedging strategy for each shock type is fundamentally different.
 
 ## Files
